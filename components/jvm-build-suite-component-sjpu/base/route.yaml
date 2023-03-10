@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: jvm-build-suite-component-sjpu
     app.kubernetes.io/part-of: jvm-build-suite-application-zisa
-  name: jvm-build-suite-componentih27
+  name: jvm-build-suite-componentwr2g
   namespace: jvm-build-zbrx-tenant
 spec:
   port:
